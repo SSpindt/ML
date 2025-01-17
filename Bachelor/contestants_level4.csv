@@ -1,0 +1,501 @@
+Unnamed: 0,Name,Age,Hometown,ElimWeek,Season,Region
+0,Amanda Marsh,23.0,"Chanute, Kansas",11.0,1,4
+1,Trista Rehn,29.0,"Miami, Florida",6.0,1,2
+2,Shannon Oliver,24.0,"Dallas, Texas",5.0,1,2
+3,Kim,24.0,"Tempe, Arizona",4.0,1,4
+4,Cathy Grimes,22.0,"Terra Haute, Indiana",3.0,1,4
+5,Christina,28.0,"Bonita, California",3.0,1,1
+6,LaNease Adams,23.0,"Los Angeles, California",3.0,1,1
+7,Rhonda,28.0,"Woodward, Oklahoma",3.0,1,4
+8,Alexa,27.0,"Beverly Hills, California",2.0,1,1
+9,Amy,28.0,"New York, New York",2.0,1,3
+10,Angela,25.0,"Avondale, Arizona",2.0,1,4
+11,Angelique,27.0,"Burbank, California",2.0,1,1
+12,Katie,23.0,"Malden, Massachusetts",2.0,1,3
+13,Melissa,25.0,"Tempe, Arizona",2.0,1,4
+14,Tina,27.0,"Plano, Texas",2.0,1,2
+15,Amber,29.0,"Los Angeles, California",1.0,1,1
+16,Daniela,30.0,"Seattle, Washington",1.0,1,1
+17,Denise,30.0,"Honolulu, Hawaii",1.0,1,1
+18,Jackie,22.0,"Pittsburgh, Pennsylvania",1.0,1,3
+19,Jill,31.0,"Chicago, Illinois",1.0,1,4
+20,Kristina,27.0,"Los Angeles, California",1.0,1,1
+21,Lisa,29.0,"Dallas, Texas",1.0,1,2
+22,Paula,24.0,"Swansea, Massachusetts",1.0,1,3
+23,Rachel,29.0,"Eastchester, New York",1.0,1,3
+24,Wendi,26.0,"Dallas, Texas",1.0,1,2
+25,Helene Eksterowicz,27.0,"Gloucester, New Jersey",11.0,2,3
+26,Brooke Smith,22.0,"Albertville, Alabama",7.0,2,2
+27,Gwen Gioia,31.0,"Philadelphia, Pennsylvania",6.0,2,3
+28,Angela,27.0,"Kansas City, Missouri",5.0,2,4
+29,Hayley,28.0,"Lake Oswego, Oregon",4.0,2,1
+30,Heather Crawford,30.0,"Dallas, Texas",4.0,2,2
+31,Christi,23.0,"Boise, Idaho",3.0,2,4
+32,Heather,24.0,"Walnut Creek, California",3.0,2,1
+33,Kyla,22.0,"Midvale, Utah",3.0,2,4
+34,Shannon,26.0,"Long Island, New York",3.0,2,3
+35,Dana,24.0,"Beverly Hills, California",2.0,2,1
+36,Erin,25.0,"Westchester, Pennsylvania",2.0,2,3
+37,Suzanne,33.0,"Redondo Beach, California",2.0,2,1
+38,Frances,30.0,"San Francisco, California",2.0,2,1
+39,Anindita,27.0,"New York, New York",2.0,2,3
+40,Amber,26.0,"Chapel Hill, North Carolina",1.0,2,2
+41,Camille,29.0,"Los Angeles, California",1.0,2,1
+42,Cari,29.0,"Granite City, Illinois",1.0,2,4
+43,Christy,24.0,"Avondale, Arizona",1.0,2,4
+44,Erin,24.0,"Houston, Texas",1.0,2,2
+45,Fatima,22.0,"Long Beach, California",1.0,2,1
+46,Liangy,30.0,"Coral Gables, Florida",1.0,2,2
+47,Lori,26.0,"Dallas, Texas",1.0,2,2
+48,Merrilee,28.0,"Forked River, New Jersey",1.0,2,3
+49,Suzi,28.0,"Richmond, Virginia",1.0,2,2
+50,Jessica Bowlin,22.0,"Huntington Beach, California",11.0,5,1
+51,Tara Huckeby,23.0,"Shawnee, Oklahoma",7.0,5,4
+52,Mandy Jaye Jeffreys,26.0,"Midland, Texas",6.0,5,2
+53,Trish Schneider,28.0,"Atlanta, Georgia",5.0,5,2
+54,Suzie Williams,23.0,"Ann Arbor, Michigan",4.0,5,4
+55,Karen Lindsay,28.0,"Pleasant Grove, Utah",4.0,5,4
+56,Jessica Holcomb,25.0,"Pearsall, Texas",3.0,5,2
+57,Julie Durda,24.0,"Sacramento, California",3.0,5,1
+58,Jenny De Schiralli,26.0,"Carrboro, North Carolina",3.0,5,2
+59,Katie Gehart,22.0,"Scottsdale, Arizona",3.0,5,4
+60,Jean-Marie Callahan,26.0,"Gibson, North Carolina",2.0,5,2
+61,Debbie Merkett,27.0,"Pinetops, North Carolina",2.0,5,2
+62,Anne-Catherine Labbé,27.0,"Quebec City, Quebec",2.0,5,4
+63,Amber LaRoux,27.0,"Sunriver, Oregon",2.0,5,1
+64,Mandy Clemens,25.0,"San Diego, California",2.0,5,1
+65,Kristy Romero,25.0,"Dearborn, Michigan",2.0,5,4
+66,Celeste Creel,24.0,"Ithaca, New York",2.0,5,3
+67,Jenny Matthews,24.0,"Canton, Michigan",2.0,5,4
+68,Dolores Farburg,26.0,"Madison, New Jersey",1.0,5,3
+69,Francine Jones,25.0,"Houston, Texas",1.0,5,2
+70,DeShaun Warner,25.0,"Phillipsburg, New Jersey",1.0,5,3
+71,Jessica Kyron,21.0,"Cincinnati, Ohio",1.0,5,4
+72,Holly Reeder,26.0,"Tulsa, Oklahoma",1.0,5,4
+73,Rachel Clementi,26.0,"Buffalo, New York",1.0,5,3
+74,Kristin Clearwater,25.0,"Sausalito, California",1.0,5,1
+75,Jennifer Wilson,24.0,"Pembroke Pines, Florida",11.0,9,2
+76,Sadie Murray,23.0,"Carlsbad, California",7.0,9,1
+77,Lisa Blank,25.0,"Portland, Oregon",6.0,9,1
+78,Agnese Polliza,24.0,"Venice, Italy",5.0,9,4
+79,Jeanette Pawula,23.0,"Bloomingdale, Illinois",4.0,9,4
+80,Desiree Valentin,22.0,"Salt Lake City, Utah",4.0,9,4
+81,Jami Matzke,27.0,"Galveston, Texas",3.0,9,2
+82,Gina Clark,28.0,"Chicago, Illinois",3.0,9,4
+83,Erica Rose,23.0,"Houston, Texas",3.0,9,2
+84,Sarah Schnare,30.0,"Nelson, British Columbia",2.0,9,4
+85,Kim Jackson,27.0,"Newport Beach, California",2.0,9,1
+86,Ellen DeMaio,30.0,"New Haven, Connecticut",2.0,9,3
+87,Tara Durr,24.0,"St. Augustine, Florida",1.0,9,2
+88,Rosella Fratto,27.0,"Chicago, Illinois",1.0,9,4
+89,Rita Ghazal,29.0,"Richmond, VA",1.0,9,4
+90,Renee Snell,30.0,"Baltimore, MD",1.0,9,4
+91,Meri Barr,27.0,"Biloxi, MS",1.0,9,4
+92,Laura Morgan,29.0,"San Diego, CA",1.0,9,4
+93,Jessica Horner,25.0,"Charlotte, NC",1.0,9,4
+94,Heather Sneed,34.0,"Aliquippa, PA",1.0,9,4
+95,Elyse Hammer,27.0,"New York, NY",1.0,9,3
+96,Cosetta Blanca,26.59719438877756,Italy,1.0,9,4
+97,Claudia Gismondi,22.0,"Boca Raton, FL",1.0,9,4
+98,Carissa Ilburg,25.0,"Cattaraugus, NY",1.0,9,4
+99,Britt (Bowe) Newton,28.0,"Columbus, OH",1.0,9,4
+100,Andrea Shirley,28.0,"Cincinnati, OH",1.0,9,4
+101,April Jacobs,23.0,"Chicago, IL",1.0,9,4
+102,Tessa Horst,26.0,"San Francisco, California",11.0,10,1
+103,Bevin Nicole Powers,28.0,"Palo Alto, California",8.0,10,1
+104,Danielle Imwalle,25.0,"Bethel, Connecticut",7.0,10,3
+105,Amber Alchalabi,23.0,"Sugar Land, Texas",6.0,10,2
+106,Stephanie Wilhite,23.0,"Overland Park, Kansas",5.0,10,4
+107,Tina Wu,26.0,"Los Angeles, California",5.0,10,1
+108,Kate Brockhouse,24.0,"Ravenel, South Carolina",4.0,10,2
+109,Nicole Clary,26.0,"Charleston, SC",4.0,10,4
+110,Stephanie Tipper,27.0,"Folly Beach, SC",4.0,10,4
+111,Amanda Hackney,26.0,"Dallas, TX",3.0,10,4
+112,Erin Parker,24.0,"Logansport, LA",3.0,10,4
+113,Peyton Wright,24.0,"La Vergne, Tennessee",3.0,10,2
+114,Alexis Young,26.0,"Southlake, TX",2.0,10,4
+115,Susan Anderson,23.0,"The Woodlands, TX",2.0,10,4
+116,Tiffany Warren,28.0,"Boston, MA",2.0,10,4
+117,Blakeney Rowe,29.0,"Birmingham, AL",1.0,10,4
+118,Candace DeCost,23.0,"Hilton Head Island, SC",1.0,10,4
+119,Catherine Warren,23.0,"Lake Forest, IL",1.0,10,4
+120,Danielle Vallis,26.0,"Bronx, NY",1.0,10,4
+121,Jackie Topelli,23.0,"Minneapolis, MN",1.0,10,4
+122,Jeanette Alvarez,27.0,"Tampa, FL",1.0,10,4
+123,Jessica Devallo,32.0,"New York, NY",1.0,10,3
+124,Linda Malek,33.0,"Cuyahoga Falls, OH",1.0,10,4
+125,Lindsay Smith,22.0,"Lawrence, KS",1.0,10,4
+126,Tiffany Forester,27.0,"St. Louis Park, MN",1.0,10,4
+127,Deanna Pappas,25.0,"Newnan, Georgia",8.0,11,2
+128,Jenni Croft,27.0,"Wichita, Kansas",8.0,11,4
+129,Bettina Bell,27.0,"Washington, D.C.",7.0,11,1
+130,Sheena Stewart,23.0,"Walnut Creek, California",6.0,11,1
+131,Hillary Reisinger,27.0,"Philadelphia, Pennsylvania",5.0,11,3
+132,Kristy Katzmann,29.0,"Gurnee, Illinois",5.0,11,4
+133,"Estefania ""Stephy"" Kootz",26.0,"Atlanta, Georgia",4.0,11,2
+134,Jade Beazley,24.0,"Nashville, Tennessee",4.0,11,2
+135,McCarten Delaney,26.0,"Lemon Grove, California",4.0,11,1
+136,Lindsey Hawkins,25.0,"Livonia, Michigan",3.0,11,4
+137,Sarah Newlon,23.0,"O'Fallon, Illinois",3.0,11,4
+138,Solisa Shoop,25.0,"Georgetown, Texas",3.0,11,2
+139,Michele Leavy,30.0,"South Brunswick, New Jersey",2.0,11,3
+140,Mallory Simons,24.0,"Honolulu, Hawaii",2.0,11,1
+141,Erin Gardner,25.0,"Tampa, Florida",2.0,11,2
+142,Jessica Kiss,27.0,"Lady Lake, Florida",1.0,11,2
+143,Juli Gilliam,24.0,"Chicago, Illinois",1.0,11,4
+144,Kim Orville,31.0,"Woodbridge, Connecticut",1.0,11,3
+145,Lori Langley,33.0,"Annapolis, Maryland",1.0,11,3
+146,Melissa Buschel,28.0,"Westchester, New York",1.0,11,3
+147,Morgan Becker,24.0,"Tempe, Arizona",1.0,11,4
+148,Natalie Velasco,25.0,"Duncanville, Texas",1.0,11,2
+149,Regina Doringa,31.0,"San Diego, California",1.0,11,1
+150,Tauni Nessler ,31.0,"St. Louis Park, Minnesota",1.0,11,4
+151,Susan Stein,35.0,"St. Charles, Illinois",1.0,11,4
+152,Shayne Lamas,22.0,"Malibu, California",11.0,12,1
+153,Chelsea Wanstrath,25.0,"Durango, Colorado",8.0,12,4
+154,Amanda Rantuccio,27.0,"Niceville, Florida",7.0,12,2
+155,Noelle Drake,26.0,"Loveland, Colorado",6.0,12,4
+156,Marshana Ritchie,27.0,"Brooklyn, New York",5.0,12,3
+157,Robin Canfield,22.0,"Holland, Michigan",5.0,12,4
+158,Ashlee Williss,22.0,"Jacksonville Beach, Florida",4.0,12,2
+159,Kelly Duncan,25.0,"Hollywood, California",4.0,12,1
+160,Holly Durst,24.0,"Suffield, Ohio",4.0,12,4
+161,Amy,22.0,"Stockton, California",3.0,12,1
+162,Erin Storm,33.0,"Venice, California",3.0,12,1
+163,Kristine Heffelfinger,33.0,"Dillsburg, Pennsylvania",3.0,12,3
+164,Carri Perrier,25.0,"Oklahoma City, Oklahoma",2.0,12,4
+165,Erin Harper,25.0,"Seattle, Washington",2.0,12,1
+166,Michelle P.,28.0,"Syracuse, New York",2.0,12,3
+167,Alyssa,24.0,"Boise, Idaho",1.0,12,4
+168,Amanda Petterman,26.0,"LaFollette, Tennessee",1.0,12,2
+169,Denise,30.0,"Washington, D.C",1.0,12,1
+170,Devon,24.0,"Austin, Texas",1.0,12,2
+171,Lesley Geyer,23.0,"Tampa, Florida",1.0,12,2
+172,Michele R.,33.0,"Laguna Niguel, California",1.0,12,1
+173,Rebecca,30.0,"Alamo, California",1.0,12,1
+174,Stacey Elza,26.0,"Chicago, Illinois",1.0,12,4
+175,Tamara,23.0,"Beverly Hills, California",1.0,12,1
+176,Tiffany,33.0,"San Francisco, California",1.0,12,1
+177,Melissa Rycroft,25.0,"Dallas, Texas",11.0,13,2
+178,Molly Malaney,24.0,"Brookfield, Wisconsin",8.0,13,4
+179,Jillian Harris,29.0,"Peace River, Alberta",7.0,13,4
+180,Naomi Rose Crespo,24.0,"Carlsbad, California",6.0,13,1
+181,Stephanie Hogan,34.0,"Huntsville, Alabama",5.0,13,2
+182,Lauren Wanger,27.0,"Marlboro, New Jersey",4.0,13,3
+183,Megan Parris,25.0,"Sewickley, Pennsylvania",4.0,13,3
+184,Shannon Bair,29.0,"Marshall, Missouri",4.0,13,4
+185,"Nicole ""Nikki"" Kaapke",29.0,"Blue Island, Illinois",4.0,13,4
+186,Erica DeSimone,25.0,"Monroe, Connecticut",3.0,13,3
+187,Kari Fajen,27.0,"Lee's Summit, Missouri",3.0,13,4
+188,Natalie Getz,27.0,"Morton, Illinois",3.0,13,4
+189,Raquel Medeiros,27.0,"Recife, Pernambuco, Brazil",2.0,13,4
+190,Sharon Staebell,32.0,"Batavia, New York",2.0,13,3
+191,Lisa Gonzalez,28.0,"Boise, Idaho",2.0,13,4
+192,Ann Lueders,24.0,"Phoenix, Arizona",1.0,13,4
+193,Dominique Carta,26.0,"Mt. Carmel, Pennsylvania",1.0,13,3
+194,Emily,23.0,"Seattle, Washington",1.0,13,1
+195,Jackie Hickey,26.0,"Springfield, Massachusetts",1.0,13,3
+196,Julie Dermotta,26.0,"Columbus, Ohio",1.0,13,4
+197,Nicole Mah,25.0,"Calgary, Alberta",1.0,13,4
+198,Renee Simlak,36.0,"Southfield, Michigan",1.0,13,4
+199,Shelby,23.0,"Stockton, California",1.0,13,1
+200,Stacia Mann,24.0,"Orem, Utah",1.0,13,4
+201,Treasure Morgan,28.0,"Salt Lake City, Utah",1.0,13,4
+202,Vienna Girardi,23.0,"Geneva, Florida",11.0,14,2
+203,Tenley Molzahn,25.0,"Newberg, Oregon",8.0,14,1
+204,Gia Allemand,26.0,"New York, New York",7.0,14,3
+205,Ali Fedotowsky,25.0,"Williamstown, Massachusetts",6.0,14,3
+206,Corrie Adamson,23.0,"Kissimmee, Florida",5.0,14,2
+207,Ashleigh Hunt,25.0,"North Potomac, Maryland",4.0,14,3
+208,Jessie Sulidis,25.0,"Oakville, Ontario",4.0,14,4
+209,Kathryn Sherlock,25.0,"Lexington, Kentucky",4.0,14,2
+210,Ella Nolan,30.0,"La Follette, Tennessee",4.0,14,2
+211,Elizabeth Kitt (NE),29.0,"Imperial, Nebraska",3.0,14,4
+212,Valishia Savage,32.0,"San Bernardino, California",3.0,14,1
+213,Michelle Kujawa,26.0,"Anaheim, California",3.0,14,1
+214,Ashley Elmore,29.0,"Pittsburgh, Pennsylvania",2.0,14,3
+215,Christina McCasland,25.0,"San Diego, California",2.0,14,1
+216,Rozlyn Papa,28.0,"Richmond, Virginia",2.0,14,2
+217,Alexa (Lex) McAllister,25.0,"Galloway, Ohio",1.0,14,4
+218,Caitlyn McCabe,24.0,"Winfield, Illinois",1.0,14,4
+219,Channy Choch,29.0,"Santa Rosa, California",1.0,14,1
+220,Elizabeth Kreft (D.C.),29.0,"Union, Kentucky",1.0,14,2
+221,Emily Harkins,23.0,"West Chester, Ohio",1.0,14,4
+222,Kimberly Sullivan,24.0,"Norman, Oklahoma",1.0,14,4
+223,Kirsten Pittman,25.0,"Aurora, Colorado",1.0,14,4
+224,Sheila Marie Lidner,25.0,"Scottsdale, Arizona",1.0,14,4
+225,Stephanie Mueller,24.0,"Morris, Illinois",1.0,14,4
+226,Tiana Kruzel,31.0,"Calgary, Alberta",1.0,14,4
+227,Emily Maynard,25.0,"Morgantown, West Virginia",11.0,15,2
+228,Chantal O'Brien,28.0,"Mercer Island, Washington",10.0,15,1
+229,Ashley Hebert,26.0,"Madawaska, Maine",9.0,15,3
+230,Shawntel Newton,25.0,"Chico, California",8.0,15,1
+231,Michelle Money,30.0,"Salt Lake City, Utah",7.0,15,4
+232,Britt Billmaier,25.0,"Woodinville, Washington",7.0,15,1
+233,Jackie Gordon,26.0,"Newport, Rhode Island",6.0,15,3
+234,Alli Travis,24.0,"Columbus, Ohio",6.0,15,4
+235,Lisa Morrisey,24.0,"Ottawa, Kansas",5.0,15,4
+236,Marissa May,26.0,"Mesa, Arizona",5.0,15,4
+237,Ashley Spivey,26.0,"Ellerbe, North Carolina",5.0,15,2
+238,Lindsay Hill,25.0,"Plano, Texas",4.0,15,2
+239,Meghan Merritt,30.0,"Princeton, New Jersey",4.0,15,3
+240,Stacey Quirpel,26.0,"Quincy, Massachusetts",4.0,15,3
+241,Kimberly Coon,27.0,"Orlando, Florida",3.0,15,2
+242,Sarah Powell,27.0,"Denver, Colorado",3.0,15,4
+243,Madison Garton,25.0,"Vail, Colorado",3.0,15,4
+244,Keltie Colleen,28.0,"Sherwood Park, Alberta",2.0,15,4
+245,Melissa Schreiber,32.0,"Westport, Connecticut",2.0,15,3
+246,Raichel Goodyear,29.0,"Fullerton, California",2.0,15,1
+247,Britnee,25.0,"Holland, Pennsylvania",1.0,15,3
+248,Cristy Caserta,30.0,"Davie, Florida",1.0,15,2
+249,"Jessica ""J"" Adams",26.0,"Seattle, Washington",1.0,15,1
+250,Jill Ruskowski,28.0,"Frisco, Texas",1.0,15,2
+251,Lacey Garbelman,27.0,"Tampa, Florida",1.0,15,2
+252,Lauren Moore,26.0,"Culpeper, Virginia",1.0,15,2
+253,Lisa P.,27.0,"Dix Hills, New York",1.0,15,3
+254,Rebecca,30.0,"Mission Viejo, California",1.0,15,1
+255,Renee Halpin,28.0,"Palos Hills, Illinois",1.0,15,4
+256,Sarah Ledtke,25.0,"Saginaw, Michigan",1.0,15,4
+257,Courtney Robertson,28.0,"Scottsdale, Arizona",11.0,16,4
+258,Lindzi Cox,27.0,"Newcastle, Washington",10.0,16,1
+259,Nicki Sterling,26.0,"Hurst, Texas",9.0,16,2
+260,Kacie Boguskie,24.0,"Clarksville, Tennessee",8.0,16,2
+261,Emily O'Brien,27.0,"Chapel Hill, North Carolina",7.0,16,2
+262,Rachel Truehart,27.0,"Southampton, Massachusetts",7.0,16,3
+263,Jamie Otis,25.0,"Dryden, New York",6.0,16,3
+264,Casey Shteamer,26.0,"Leawood, Kansas",6.0,16,4
+265,Blakeley Jones,33.0,"Rutherfordton, North Carolina",6.0,16,2
+266,Jennifer Fritsch,28.0,"Cache, Oklahoma",5.0,16,4
+267,Elyse Myers,24.0,"Chicago, Illinois",5.0,16,4
+268,Monica Spannbauer,33.0,"Yuba, California",4.0,16,1
+269,Samantha Levey,26.0,"Pittsburgh, Pennsylvania",4.0,16,3
+270,Erika Uhlig,23.0,"Charlottesville, Virginia",3.0,16,2
+271,Jaclyn Swartz,27.0,"Newton, Massachusetts",3.0,16,3
+272,Brittney Schreiner,26.0,"Colorado Springs, Colorado",3.0,16,4
+273,Jenna Burke,27.0,"Loveland, Ohio",2.0,16,4
+274,Shawn Reynolds,28.0,"Cincinnati, Ohio",2.0,16,4
+275,Amber Bacon,23.0,"Port Coquitlam, British Columbia",1.0,16,4
+276,Amber Tierney,28.0,"Waverly, Nebraska",1.0,16,4
+277,Anna Snowball,25.0,"Detroit, Michigan",1.0,16,4
+278,Dianna Martinez,30.0,"San Gabriel, California",1.0,16,1
+279,Holly Johnson,34.0,"Salyersville, Kentucky",1.0,16,2
+280,Lyndsie James,29.0,"London, England",1.0,16,4
+281,Shira Astrof,35.0,"Massapequa Park, New York",1.0,16,3
+282,Catherine Giudici,26.0,"Seattle, Washington",11.0,17,1
+283,Lindsay Yenter,24.0,"Fort Bragg, North Carolina",10.0,17,2
+284,AshLee Frazier,32.0,"Houston, Texas",9.0,17,2
+285,Desiree Hartsock,26.0,"Northglenn, Colorado",8.0,17,4
+286,Lesley Murphy,24.0,"Fort Smith, Arkansas",7.0,17,2
+287,Tierra LiCausi,24.0,"Las Vegas, Nevada",7.0,17,4
+288,Daniella McBride,24.0,"Belmont, California",6.0,17,1
+289,Selma Alameri,29.0,"Borrego Springs, California",6.0,17,1
+290,Sarah Herron,26.0,"Evergreen, Colorado",6.0,17,4
+291,Robyn Howard,24.0,"Topeka, Kansas",5.0,17,4
+292,Jackie Parr,25.0,"Ormond Beach, Florida",5.0,17,2
+293,Amanda Meyer,26.0,"Bakersfield, California",4.0,17,1
+294,Leslie Hughes,28.0,"Ruskin, Florida",4.0,17,2
+295,Kristy Kaminski,25.0,"Darien, Wisconsin",3.0,17,4
+296,Taryn Renee Daniels,30.0,"Troutdale, Oregon",3.0,17,1
+297,Kacie Boguskie,25.0,"Clarksville, Tennessee",3.0,17,2
+298,Brooke Burchette,25.0,"Pittsburgh, Pennsylvania",2.0,17,3
+299,Diana Weeks Willardson,31.0,"Sandy, Utah",2.0,17,4
+300,Katie Levans,27.0,"Woodstock, Illinois",2.0,17,4
+301,Ashley Harper,25.0,"Garner, North Carolina",1.0,17,2
+302,Ashley Palenkas,28.0,"Macomb, Michigan",1.0,17,4
+303,Kelly Dutton,28.0,"Chattanooga, Tennessee",1.0,17,2
+304,Keriann Miranda,29.0,"Agoura Hills, California",1.0,17,1
+305,Lacey Latka,24.0,"Stevenson Ranch, California",1.0,17,1
+306,Lauren Marchetti,27.0,"Cranston, Rhode Island",1.0,17,3
+307,Paige Vigil,25.0,"Minnetonka, Minnesota",1.0,17,4
+308,Nikki Ferrell,26.0,"Kearney, Missouri",11.0,18,4
+309,Clare Crawley,32.0,"Sacramento, California",10.0,18,1
+310,Andi Dorfman,26.0,"Buckhead, Georgia",9.0,18,2
+311,Renee Oteri,32.0,"Martha's Vineyard, Massachusetts",8.0,18,3
+312,Chelsie Webster,24.0,"Lexington, Ohio",7.0,18,4
+313,Sharleen Joynt,29.0,"Ottawa, Ontario",7.0,18,4
+314,Kat Hurd,29.0,"Iowa City, Iowa",6.0,18,4
+315,Cassandra Ferguson,22.0,"Shelby Charter Township, Michigan",6.0,18,4
+316,Alli Restko,26.0,"Orland Park, Illinois",5.0,18,4
+317,Danielle Ronco,25.0,"Litchfield, Illinois",5.0,18,4
+318,Kelly Travis,27.0,"Conyers, Georgia",5.0,18,2
+319,Elise Mosca,27.0,"Forty Fort, Pennsylvania",4.0,18,3
+320,Lauren Solomon,26.0,"Austin, Texas",4.0,18,2
+321,Christy Hansen,24.0,"Aurora, Illinois",3.0,18,4
+322,"Lucinda ""Lucy"" Aragon",25.0,"Santa Barbara, California",3.0,18,1
+323,Amy Long,27.0,"Clermont, Florida",2.0,18,2
+324,Chantel Forrest,27.0,"Miami, Florida",2.0,18,2
+325,Victoria Lima,24.0,"Porto Alegre, Brazil",2.0,18,4
+326,Alexis Morgado,24.0,"Tampa, Florida",1.0,18,2
+327,Amy Jokinen,31.0,"Apopka, Florida",1.0,18,2
+328,Ashley Poe,25.0,"Roanoke, Texas",1.0,18,2
+329,Christine Llano,23.0,"Miami, Florida",1.0,18,2
+330,Kylie Lewis,23.0,"Rockford, Illinois",1.0,18,4
+331,Lacy Faddoul,25.0,"Antelope Acres, California",1.0,18,1
+332,Lauren Higginson,25.0,"Edmond, Oklahoma",1.0,18,4
+333,Maggie Gantt,25.0,"Wagener, South Carolina",1.0,18,2
+334,Valerie Eredia,26.0,"Sutter, California",1.0,18,1
+335,Whitney Bischoff,29.0,"Louisville, Kentucky",11.0,19,2
+336,Becca Tilley,25.0,"Shreveport, Louisiana",10.0,19,2
+337,Kaitlyn Bristowe,29.0,"Leduc, Alberta",9.0,19,4
+338,Jade Roper,28.0,"Gering, Nebraska",8.0,19,4
+339,Carly Waddell,29.0,"Arlington, Texas",7.0,19,2
+340,Britt Nilsson,27.0,"Wolcott Mills, Michigan",7.0,19,4
+341,Megan Bell,24.0,"Nashville, Tennessee",6.0,19,2
+342,Kelsey Poe,28.0,"Hudsonville, Michigan",6.0,19,4
+343,Ashley Iaconetti,26.0,"Great Falls, Virginia",6.0,19,2
+344,Mackenzie Deonigi,21.0,"Maple Valley, Washington",5.0,19,1
+345,Samantha Steffen,27.0,"Indianapolis, Indiana",5.0,19,4
+346,Ashley Salter,24.0,"Vinings, Georgia",4.0,19,2
+347,Juelia Kinney,30.0,"Beaverton, Oregon",4.0,19,1
+348,Nikki Delventhal,26.0,"Hasbrouck Heights, New Jersey",4.0,19,3
+349,Jillian Anderson,25.0,"Howland, Ohio",4.0,19,4
+350,Amber James,29.0,"Kankakee, Illinois",3.0,19,4
+351,Tracy Darakis,29.0,"Wellington, Florida",3.0,19,2
+352,Trina Scherenberg,33.0,"Algonquin, Illinois",3.0,19,4
+353,Alissa Giambrone,24.0,"Hamilton, New Jersey",2.0,19,3
+354,Jordan Branch,24.0,"Windsor, Colorado",2.0,19,4
+355,Kimberly Sherbach,28.0,"Wantagh, New York",2.0,19,3
+356,Tandra Steiner,30.0,"Sandy, Utah",2.0,19,4
+357,Tara Eddings,26.0,"Fort Lauderdale, Florida",2.0,19,2
+358,Amanda Goerlitz,24.0,"Lake in the Hills, Illinois",1.0,19,4
+359,Bo Stanley,25.0,"Carpinteria, California",1.0,19,1
+360,Brittany Fetkin,26.0,"Temecula, California",1.0,19,1
+361,Kara Wilson,25.0,"Brownsville, Kentucky",1.0,19,2
+362,Michelle Davis,25.0,"Provo, Utah",1.0,19,4
+363,Nicole Meacham,31.0,"Scottsdale, Arizona",1.0,19,4
+364,Reegan Cornwell,28.0,"Manhattan Beach, California",1.0,19,1
+365,Lauren Bushnell,25.0,"West Linn, Oregon",11.0,20,1
+366,"Joelle ""JoJo"" Fletcher",24.0,"Dallas, Texas",10.0,20,2
+367,Caila Quinn,24.0,"Hudson, Ohio",9.0,20,4
+368,Amanda Stanton,25.0,"Rancho Santa Margarita, California",8.0,20,1
+369,Becca Tilley,26.0,"Shreveport, Louisiana",7.0,20,2
+370,Emily Ferguson,23.0,"Las Vegas, Nevada",7.0,20,4
+371,Lauren Himle,25.0,"Dexter, Michigan",6.0,20,4
+372,Olivia Caridi,23.0,"Bristol, Virginia",6.0,20,2
+373,Leah Block,25.0,"Greenwood Village, Colorado",6.0,20,4
+374,Jennifer Saviano,25.0,"Lauderdale Lakes, Florida",5.0,20,2
+375,Jubilee Sharpe,24.0,"Fort Lauderdale, Florida",5.0,20,2
+376,Amber James,30.0,"Kankakee, Illinois",4.0,20,4
+377,Rachel Tchen,23.0,"Little Rock, Arkansas",4.0,20,2
+378,Haley Ferguson,23.0,"Las Vegas, Nevada",4.0,20,4
+379,Jami Letain,23.0,"St. Albert, Alberta",3.0,20,4
+380,Shushanna Mkrtychyan,27.0,"Salt Lake City, Utah",3.0,20,4
+381,Lace Morris,25.0,"Denver, Colorado",3.0,20,4
+382,"Amanda ""Mandi"" Kremer",28.0,"Portland, Oregon",2.0,20,1
+383,"Jacqueline ""Jackie"" Dion",23.0,"Newport Beach, California",2.0,20,1
+384,Samantha Passmore,26.0,"New Smyrna Beach, Florida",2.0,20,2
+385,"Lauren ""LB"" Barr",23.0,"Stillwater, Oklahoma",2.0,20,4
+386,Breanne Rice,30.0,"Seattle, Washington",1.0,20,1
+387,"Isabel ""Izzy"" Goodkind",24.0,"Branford, Connecticut",1.0,20,3
+388,Jessica Moser,23.0,"Boca Raton, Florida",1.0,20,2
+389,Laura Esselman,24.0,"Louisville, Kentucky",1.0,20,2
+390,Lauren Russell,26.0,"Houston, Texas",1.0,20,2
+391,Maegan Miller,30.0,"Visalia, California",1.0,20,1
+392,Tiara Soleim,27.0,"Redmond, Washington",1.0,20,1
+393,Alexis,23.0,"Secaucus, NJ",5.0,21,4
+394,Angela,26.0,"Greenville, SC",1.0,21,4
+395,Astrid,26.0,"Tampa, FL",4.0,21,4
+396,Briana,28.0,"Salt Lake City, UT",1.0,21,4
+397,Brittany,26.0,"Santa Monica, CA",3.0,21,4
+398,Christen,25.0,"Tulsa, OK",3.0,21,4
+399,Corinne,24.0,"Miami, FL",8.0,21,4
+400,Danielle L.,27.0,"Los Angeles, CA",6.0,21,4
+401,Danielle M.,31.0,"Nashville, TN",7.0,21,4
+402,Dominique,25.0,"Los Angeles, CA",3.0,21,4
+403,Liz,29.0,"Las Vegas, NV",2.0,21,4
+404,Elizabeth,24.0,"Dallas, TX",2.0,21,4
+405,Hailey,23.0,"Vancouver, British Columbia, Canada",2.0,21,4
+406,Ida Marie,23.0,"Harlingen, TX",1.0,21,4
+407,Jaimi,28.0,"New Orleans, LA",5.0,21,4
+408,Jasmine B.,25.0,"Tacoma, WA",1.0,21,4
+409,Jasmine G.,29.0,"San Francisco, CA",6.0,21,4
+410,Josephine,24.0,"Santa Cruz, CA",5.0,21,4
+411,Kristina,24.0,"Lexington, KY",7.0,21,4
+412,Lacey,25.0,"Manhattan, NY",2.0,21,4
+413,Lauren,30.0,"Naples, FL",1.0,21,4
+414,Michelle,24.0,"Los Angeles, CA",1.0,21,4
+415,Olivia,25.0,"Anchorage, AK",1.0,21,4
+416,Rachel,31.0,"Dallas, TX",11.0,21,4
+417,Raven,25.0,"Hoxie, AR",11.0,21,4
+418,Sarah,26.0,"Newport Beach, CA",4.0,21,4
+419,Susannah,26.0,"San Diego, CA",1.0,21,4
+420,Taylor,23.0,"Seattle, WA",5.0,21,4
+421,Vanessa,29.0,"Montreal, Quebec, Canada",11.0,21,4
+422,Whitney,25.0,"Chanhassen, MN",6.0,21,4
+0,Estella Gardinier,28.0,"Beverly Hills, California",11.0,4,1
+1,Kelly Jo Kuharski,24.0,"Kalamazoo, Michigan",7.0,4,4
+2,Mary Delgado,28.0,"Tampa, Florida",6.0,4,2
+3,Meredith Phillips,28.0,"Beaverton, Oregon",5.0,4,1
+4,Brooke Bradford,24.0,"Bartlett, Tennessee",4.0,4,2
+5,Lee-Ann Callebs,24.0,"Athens, Georgia",4.0,4,2
+6,Antoinette Madonna,30.0,"Philadelphia, Pennsylvania",3.0,4,3
+7,Jenny Hartgrove,30.0,"Austin, Texas",3.0,4,2
+8,Karin Smith,32.0,"Brooklyn Park, Minnesota",3.0,4,4
+9,Misty,23.0,"Dallas, Texas",3.0,4,2
+10,Jennifer,26.0,"La Jolla, California",2.0,4,1
+11,Kristi Houston,24.0,"Chicago, Illinois",2.0,4,4
+12,Lanah,27.0,"Poolesville, Maryland",2.0,4,3
+13,Lindsay D.,23.0,"Los Angeles, California",2.0,4,1
+14,Lindsay King,25.0,"Mauldin, South Carolina",1.0,4,2
+15,Christine,24.0,"Corona, California",1.0,4,1
+16,Darla Whistler,26.0,"Gainesville, Florida",1.0,4,2
+17,Heather,24.0,"Chicago, Illinois",1.0,4,4
+18,Julie,29.0,"Louisville, Kentucky",1.0,4,2
+19,Lauren,24.0,"Redondo Beach, California",1.0,4,1
+20,Leona,25.0,"Chicago, Illinois",1.0,4,4
+21,Samentha,25.0,"Chicago, Illinois",1.0,4,4
+22,Shea Deeds,25.0,"Shreveport, Lousiana",1.0,4,4
+23,Shelly,26.0,"Wanwatosa, Wisconsin",1.0,4,4
+24,Stacey,26.0,"Massillon, OH",1.0,4,4
+0,Mary Delgado,29.0,"Tampa, FL",11.0,6,4
+1,Tanya,31.0,"Plano, TX",7.0,6,4
+2,Cynthia,37.0,"Hermosa Beach, CA",7.0,6,4
+3,Cheresse,31.0,"St. Louis, MO",6.0,6,4
+4,Andrea,33.0,"Denver, CO",5.0,6,4
+5,Jayne,37.0,"Key Largo, FL",5.0,6,4
+6,Elizabeth,28.0,"Chicago, IL",4.0,6,4
+7,Krysta,28.0,"Oklahoma City, OK",4.0,6,4
+8,Amanda,27.0,"New York, NY",3.0,6,3
+9,Kristie,32.0,"Windsor, Canada",3.0,6,4
+10,Susie,32.0,"Hollywood, CA",3.0,6,4
+11,Heather Cranford,32.0,"Dallas, TX",3.0,6,4
+12,Ashley,31.0,"Santa Barbara, CA",2.0,6,4
+13,Kelly,34.0,"Beverly Hills, CA",2.0,6,4
+14,Leina,28.0,"Chula Vista, CA",2.0,6,4
+15,Natalie,34.0,"Santa Monica, CA",2.0,6,4
+16,Wende,28.0,"Austin, TX",2.0,6,4
+17,Abby,29.0,"Henderson, NV",1.0,6,4
+18,Alma Rubenstein,35.0,"Astoria, OR",1.0,6,4
+19,Amy,27.0,"San Diego, CA",1.0,6,4
+20,Carolyn,36.0,"Tusla, OK",1.0,6,4
+21,Jennifer,31.0,"Seattle, WA",1.0,6,4
+22,Kerry,31.0,"San Francisco, CA",1.0,6,4
+23,Kristin,27.0,"Pensacola, FL",1.0,6,4
+24,Lisa,33.0,"West Palm Beach, FL",1.0,6,4
+25,Melinda,39.0,"Nashville, TN",1.0,6,4
+26,Nicole,28.0,"Libertyville, IL",1.0,6,4
+0,Sarah Brice,24.0,"McKinney, Texas",11.0,7,2
+1,Krisily Kennedy,25.0,"Warwick, Rhode Island",8.0,7,3
+2,Sarah Welch,24.0,"Los Angeles, California",6.0,7,1
+3,Kimberly Choma,25.0,"Edmonton, Alberta",5.0,7,4
+4,Anitra,29.0,"Manhattan Beach, California",4.0,7,1
+5,Kindle,23.0,"Rockwell, Texas",4.0,7,2
+6,Jenny Adams,23.0,"Edmonton, Alberta",3.0,7,4
+7,Kara,26.0,"Woodland Hills, California",3.0,7,1
+8,Carrie,27.0,"Minneapolis, Minnesota",2.0,7,4
+9,Gina Marie,28.0,"Fort Lauderdale, Florida",2.0,7,2
+10,Kerry,32.0,"Chicago, Illinois",2.0,7,4
+11,Megan,23.0,"Tallahassee, Florida",2.0,7,2
+12,Brenda,26.0,"New York City, New York",1.0,7,3
+13,Danuska,30.0,"Los Angeles, California",1.0,7,1
+14,Debby,25.0,"Thornhill, Ontario",1.0,7,4
+15,Emilie,27.0,"Chicago, Illinois",1.0,7,4
+16,Geitan,30.0,"Newport Beach, California",1.0,7,1
+17,Heather,24.0,"Orlando, Florida",1.0,7,2
+18,Katie,25.0,"Tempe, Arizona",1.0,7,4
+19,Kristen,30.0,"Boston, Massachusetts",1.0,7,3
+20,Kristina,27.0,"Brooklyn, New York",1.0,7,3
+21,Kristine,23.0,"Fairfax Station, Virginia",1.0,7,2
+22,Kyshawn,30.0,"Nashville, Tennessee",1.0,7,2
+23,Siomara,25.0,"Chicago, Illinois",1.0,7,4
+24,Valerie,28.0,"Wayne, New Jersey",1.0,7,3
